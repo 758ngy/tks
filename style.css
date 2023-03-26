@@ -1,0 +1,33 @@
+body {background-color: rgb(134, 0, 83);}
+x{padding: 100px;}
+
+header{background-color: pink;text-align:center;} 
+header{font-size: xx-large;}
+header{color: black;}
+
+
+#hero img{width: 100%;}
+#hero{text-align: center;}
+#hero{padding: 20px;}
+.mkj{display: contents;justify-content: space-around;}
+
+
+.VDO{display: flex;justify-content: space-around;}
+.VDO{size: 510%;}
+main img{width: 30%;} 
+main{font-size: xx-large} 
+main{text-align: center;} 
+main{background-color: pink;}
+
+input[type="submit"]{font-size: x-large;}
+aside{background-color: pink;}
+aside{font-size: x-large;}
+aside h1{font-size: x-large;}
+aside h1{text-align: center;}
+input form{text-align: center;}
+aside p{text-align: center;}
+.btn input{text-align: center;}
+.imi{text-align: center;}
+.www{display: contents;justify-content: space-around;}
+
+
